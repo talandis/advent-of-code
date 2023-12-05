@@ -115,8 +115,5 @@ const result = (input) => {
 
 // console.log(46 === result('./test.txt'));
 
-console.log( 2520479 === result('./input.txt'));
+console.log( result('./input.txt'));
 
-// Too high: 171049374
-// Too high:  10516670
-//             2520479
